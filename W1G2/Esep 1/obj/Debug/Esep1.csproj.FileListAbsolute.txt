@@ -1,0 +1,7 @@
+C:\Users\Серикболсын\Desktop\pp2\W1G2\Esep 1\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Серикболсын\Desktop\pp2\W1G2\Esep 1\bin\Debug\ConsoleApp2.exe
+C:\Users\Серикболсын\Desktop\pp2\W1G2\Esep 1\bin\Debug\ConsoleApp2.pdb
+C:\Users\Серикболсын\Desktop\pp2\W1G2\Esep 1\obj\Debug\Esep1.csprojAssemblyReference.cache
+C:\Users\Серикболсын\Desktop\pp2\W1G2\Esep 1\obj\Debug\Esep1.csproj.CoreCompileInputs.cache
+C:\Users\Серикболсын\Desktop\pp2\W1G2\Esep 1\obj\Debug\ConsoleApp2.exe
+C:\Users\Серикболсын\Desktop\pp2\W1G2\Esep 1\obj\Debug\ConsoleApp2.pdb

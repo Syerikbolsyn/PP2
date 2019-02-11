@@ -1,0 +1,21 @@
+c:\Users\серикболсын\source\repos\ConsoleApp2\Esep2\obj\Debug\Esep2.csproj.CoreCompileInputs.cache
+c:\Users\серикболсын\source\repos\ConsoleApp2\Esep2\obj\Debug\Esep2.csprojAssemblyReference.cache
+c:\Users\серикболсын\source\repos\ConsoleApp2\Esep2\bin\Debug\Esep2.exe.config
+c:\Users\серикболсын\source\repos\ConsoleApp2\Esep2\bin\Debug\Esep2.exe
+c:\Users\серикболсын\source\repos\ConsoleApp2\Esep2\bin\Debug\Esep2.pdb
+c:\Users\серикболсын\source\repos\ConsoleApp2\Esep2\obj\Debug\Esep2.exe
+c:\Users\серикболсын\source\repos\ConsoleApp2\Esep2\obj\Debug\Esep2.pdb
+C:\Users\Серикболсын\Desktop\pp2\W1G2\Esep2\bin\Debug\Esep2.exe.config
+C:\Users\Серикболсын\Desktop\pp2\W1G2\Esep2\bin\Debug\Esep2.exe
+C:\Users\Серикболсын\Desktop\pp2\W1G2\Esep2\bin\Debug\Esep2.pdb
+C:\Users\Серикболсын\Desktop\pp2\W1G2\Esep2\obj\Debug\Esep2.csprojAssemblyReference.cache
+C:\Users\Серикболсын\Desktop\pp2\W1G2\Esep2\obj\Debug\Esep2.csproj.CoreCompileInputs.cache
+C:\Users\Серикболсын\Desktop\pp2\W1G2\Esep2\obj\Debug\Esep2.exe
+C:\Users\Серикболсын\Desktop\pp2\W1G2\Esep2\obj\Debug\Esep2.pdb
+C:\Users\Серикболсын\Desktop\pp2\W1G2\Esep 2\obj\Debug\Esep2.csprojAssemblyReference.cache
+C:\Users\Серикболсын\Desktop\pp2\W1G2\Esep 2\obj\Debug\Esep2.csproj.CoreCompileInputs.cache
+C:\Users\Серикболсын\Desktop\pp2\W1G2\Esep 2\obj\Debug\Esep2.exe
+C:\Users\Серикболсын\Desktop\pp2\W1G2\Esep 2\obj\Debug\Esep2.pdb
+C:\Users\Серикболсын\Desktop\pp2\W1G2\Esep 2\bin\Debug\Esep2.exe.config
+C:\Users\Серикболсын\Desktop\pp2\W1G2\Esep 2\bin\Debug\Esep2.exe
+C:\Users\Серикболсын\Desktop\pp2\W1G2\Esep 2\bin\Debug\Esep2.pdb
