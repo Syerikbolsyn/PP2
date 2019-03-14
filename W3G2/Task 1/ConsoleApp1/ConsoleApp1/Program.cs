@@ -9,7 +9,7 @@ namespace ConsoleApp1
 {
     class FarManager
     {
-        public int cursor, sz;//declaring all variables 
+        public int cursor, sz;//declearing all variables 
         public bool ok;
         public string path;
         DirectoryInfo di = null;
@@ -65,7 +65,7 @@ namespace ConsoleApp1
         public void Up()//function to raise up
         {
             cursor--;
-            if (cursor < 0)
+            if (cursor <= 0)
                 cursor = sz - 1;
         }
         public void Down()//function to reduce down

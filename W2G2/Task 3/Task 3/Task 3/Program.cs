@@ -38,7 +38,7 @@ namespace Task_3
        
         static void Main(string[] args)
         {
-            DirectoryInfo dy = new DirectoryInfo("C:/Users/Серикболсын/Desktop/pp2/W2G2");
+            DirectoryInfo dy = new DirectoryInfo(@"C:\Users\Серикболсын\Desktop\Exampls\Ex7");
             int k = 0;
             Fshygaru(dy,k);
         }
